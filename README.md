@@ -4,9 +4,9 @@ Học kỳ 3, Năm học: 2025-2026
 
 **Họ tên**: Nguyễn Thị Minh Thư
 
-**MSSV**: ...
+**MSSV**: DC25VK034
 
-**Lớp HP**: ...
+**Lớp HP**: CT275
 
 
 
