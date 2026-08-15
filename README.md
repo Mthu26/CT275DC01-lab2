@@ -2,7 +2,7 @@
 
 Học kỳ 3, Năm học: 2025-2026
 
-**Họ tên**: ...
+**Họ tên**: Nguyễn Thị Minh Thư
 
 **MSSV**: ...
 
